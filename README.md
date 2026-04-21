@@ -1,5 +1,5 @@
 # 💫 *About Me:*
-🔭 I’m currently working on<br>Developing full-stack web applications and improving my backend skills with Node.js and Express<br><br>👯 I’m looking to collaborate on<br>Open-source projects and beginner to intermediate MERN stack applications<br><br>🤝 I’m looking for help with<br>Scalable backend architecture, APIs, and advanced JavaScript concepts<br><br>🌱 I’m currently learning<br>React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms<br><br>💬 Ask me about<br>Frontend development, JavaScript fundamentals, UI/UX design, and web basics<br><br>⚡ Fun fact<br>I combine design thinking with development to build user-friendly web experiences
+🔭 I’m currently working on<br>Developing full-stack web applications and improving my backend skills with Node.js and Express<br><br>👯 I’m looking to collaborate on<br>Open-source projects and beginner to intermediate MERN stack applications<br><br>🤝 I’m looking for help with<br>Scalable backend architecture, APIs, and advanced JavaScript concepts<br> <br>🌱 I’m currently learning<br>React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms<br><br>💬 Ask me about<br>Frontend development, JavaScript fundamentals, UI/UX design, and web basics<br><br>⚡ Fun fact<br>I combine design thinking with development to build user-friendly web experiences
 
 
 ## 🌐 *Socials:*
